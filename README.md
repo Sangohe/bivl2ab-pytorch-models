@@ -10,4 +10,4 @@ To get things up and running, follow the instructions below
 
 # To-do
 
-- [] Create an environment and write instructions so that everyone can reproduce them.
+- [ ] Create an environment and write instructions so that everyone can reproduce them.

@@ -1,6 +1,6 @@
 # bivl2ab-pytorch-models
 
-This projects holds the models developed in the Pytorch course taken from BIVL²ab students.
+This projects holds PyTorch models developed by BIVL²ab students.
 
 # Set the environment
 
